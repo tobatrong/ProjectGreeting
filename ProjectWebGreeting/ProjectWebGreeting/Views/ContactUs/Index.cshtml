@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MyLayoutPage.cshtml";
+}
+
+<div class="contant">
+
+    <div class="container">
+
+        <div class="contact-us">
+            <!--EVENT START-->
+            <div class="row">
+
+                <div class="span12">
+
+                    <div class="leave-reply">
+
+
+                   <div style="height:20px"></div>
+
+                        <form autocomplete="off" method="post" action="#">
+                            <table  style="width:300px;margin-left: 358px;" >
+                                <tr><td>UserName</td></tr>
+                                <tr >
+                                   
+                                    <td><input type="text" name="name" value="" placeholder="Name" class="input-block-level" ></td>
+                                </tr>
+                               <tr><td>PassWord</td></tr>
+                                <tr>
+                                    
+                                    <td><input type="text" name="name" value="" placeholder="Name" class="input-block-level"></td>
+                                </tr>
+                                <tr>
+                                    <td><button name="submit" class="btn-style">Submit</button></td>
+                                </tr>
+                                <tr>
+                                    <td><a>Forgot password?</a></td>
+                                </tr>
+                                <tr>
+                                    <td><a href="@Url.Action("Index", "Register")">Register New Account</a></td>
+                                </tr>
+                            </table>   
+                        </form>
+                        <div style="height:20px"></div>
+                    </div>
+
+                </div>
+            </div>
+            <!--EVENT END-->
+
+        </div>
+    </div>
+</div>
+

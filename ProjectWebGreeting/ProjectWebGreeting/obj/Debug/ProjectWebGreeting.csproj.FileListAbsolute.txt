@@ -1,0 +1,138 @@
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\ApplicationInsights.config
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\csc.exe
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\csc.exe.config
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\csc.rsp
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\csi.exe
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\csi.rsp
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.AppContext.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.IO.FileSystem.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\vbc.exe
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\vbc.exe.config
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\vbc.rsp
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\VBCSCompiler.exe
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\ProjectWebGreeting.dll.config
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\ProjectWebGreeting.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\ProjectWebGreeting.pdb
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Antlr3.Runtime.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.Web.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.ApplicationInsights.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Newtonsoft.Json.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Helpers.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Mvc.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Optimization.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Razor.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.Deployment.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.Razor.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\WebGrease.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Helpers.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Mvc.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Optimization.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Razor.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.Deployment.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.Razor.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Antlr3.Runtime.pdb
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Newtonsoft.Json.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.ApplicationInsights.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.Web.xml
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\obj\Debug\ProjectWebGreeting.dll
+c:\users\ba trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\obj\Debug\ProjectWebGreeting.pdb
+c:\Users\Ba Trong\Documents\Visual Studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\EntityFramework.dll
+c:\Users\Ba Trong\Documents\Visual Studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\bin\EntityFramework.xml
+C:\Users\Ba Trong\documents\visual studio 2017\Projects\ProjectWebGreeting\ProjectWebGreeting\obj\Debug\ProjectWebGreeting.csprojResolveAssemblyReference.cache
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\ApplicationInsights.config
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\csc.exe
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\csc.exe.config
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\csc.rsp
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\csi.exe
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\csi.rsp
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.AppContext.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.Collections.Immutable.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.IO.FileSystem.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\vbc.exe
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\vbc.exe.config
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\vbc.rsp
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\VBCSCompiler.exe
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\roslyn\VBCSCompiler.exe.config
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\ProjectWebGreeting.dll.config
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\ProjectWebGreeting.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\ProjectWebGreeting.pdb
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Antlr3.Runtime.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\EntityFramework.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.DependencyCollector.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.Web.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.WindowsServer.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.ApplicationInsights.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.Web.Infrastructure.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Newtonsoft.Json.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Helpers.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Mvc.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Optimization.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Razor.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.Deployment.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.Razor.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\WebGrease.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\EntityFramework.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Helpers.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Mvc.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Optimization.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.Razor.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.Deployment.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\System.Web.WebPages.Razor.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Antlr3.Runtime.pdb
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Newtonsoft.Json.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.ApplicationInsights.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.DependencyCollector.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.WindowsServer.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\bin\Microsoft.AI.Web.xml
+E:\ProjectWebGreeting\ProjectWebGreeting\obj\Debug\ProjectWebGreeting.csprojResolveAssemblyReference.cache
+E:\ProjectWebGreeting\ProjectWebGreeting\obj\Debug\ProjectWebGreeting.dll
+E:\ProjectWebGreeting\ProjectWebGreeting\obj\Debug\ProjectWebGreeting.pdb

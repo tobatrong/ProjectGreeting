@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="greetingDatabaseModelStoreContainer" CdmEntityContainer="greetingDatabaseEntities">
+    <EntitySetMapping Name="Accounts">
+      <EntityTypeMapping TypeName="greetingDatabaseModel.Account">
+        <MappingFragment StoreEntitySet="Account">
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="question" ColumnName="question" />
+          <ScalarProperty Name="answer" ColumnName="answer" />
+          <ScalarProperty Name="roldId" ColumnName="roldId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Account_Infoes">
+      <EntityTypeMapping TypeName="greetingDatabaseModel.Account_Info">
+        <MappingFragment StoreEntitySet="Account Info">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="Country" ColumnName="Country" />
+          <ScalarProperty Name="State" ColumnName="State" />
+          <ScalarProperty Name="mobile" ColumnName="mobile" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="username" ColumnName="username" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Categories">
+      <EntityTypeMapping TypeName="greetingDatabaseModel.Category">
+        <MappingFragment StoreEntitySet="Category">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="charges" ColumnName="charges" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Greetings">
+      <EntityTypeMapping TypeName="greetingDatabaseModel.Greeting">
+        <MappingFragment StoreEntitySet="Greeting">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="contents" ColumnName="contents" />
+          <ScalarProperty Name="tittle" ColumnName="tittle" />
+          <ScalarProperty Name="customMessenger" ColumnName="customMessenger" />
+          <ScalarProperty Name="photo" ColumnName="photo" />
+          <ScalarProperty Name="categoryID" ColumnName="categoryID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Payments">
+      <EntityTypeMapping TypeName="greetingDatabaseModel.Payment">
+        <MappingFragment StoreEntitySet="Payment">
+          <ScalarProperty Name="accountUsername" ColumnName="accountUsername" />
+          <ScalarProperty Name="serviceId" ColumnName="serviceId" />
+          <ScalarProperty Name="amount" ColumnName="amount" />
+          <ScalarProperty Name="expiryDate" ColumnName="expiryDate" />
+          <ScalarProperty Name="paymentNumber" ColumnName="paymentNumber" />
+          <ScalarProperty Name="ssuerName" ColumnName="ssuerName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="greetingDatabaseModel.Role">
+        <MappingFragment StoreEntitySet="Role">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="details" ColumnName="details" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sendings">
+      <EntityTypeMapping TypeName="greetingDatabaseModel.Sending">
+        <MappingFragment StoreEntitySet="Sending">
+          <ScalarProperty Name="greetingId" ColumnName="greetingId" />
+          <ScalarProperty Name="usernameId" ColumnName="usernameId" />
+          <ScalarProperty Name="senderName" ColumnName="senderName" />
+          <ScalarProperty Name="rersiveName" ColumnName="rersiveName" />
+          <ScalarProperty Name="addressTo" ColumnName="addressTo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Services">
+      <EntityTypeMapping TypeName="greetingDatabaseModel.Service">
+        <MappingFragment StoreEntitySet="Service">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
